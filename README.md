@@ -1,12 +1,16 @@
 README.md
 ---------
-This file described how to successfull run the run_analysis.R file with the output file of tinyData.txt
+This file described how to successfully run the run_analysis.R file on this dataset:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+The output file is tinyData.txt
 
 Assumptions
 -----------
 - Installed dplyr package
-- Data is in original file/folder structure
-- run_analysis.R needs to run in the same working directory as the data.
+- Data is downloaded and unzipped from link above and in original file/folder structure
+- run_analysis.R needs to run in the same working directory as the main data root folder.
 - the output file, tinyData.txt will appear in the same working directory
 
 Script Execution
